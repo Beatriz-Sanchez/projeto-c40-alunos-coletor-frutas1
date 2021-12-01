@@ -1,3 +1,12 @@
+/*
+Lembre-se de criar um banco de dados no Firebase com os seguintes itens:
+{
+gameState: 0,
+playerCount: 0
+}
+Depois de criado o banco de dados, crie seu app web e adicione as suas configurações no index.html
+*/
+
 var database;
 var back_img;
 var gameState =0;
