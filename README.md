@@ -1,1 +1,1 @@
-# projeto-c40-alunos-coletor-frutas1
+# Projeto C40 - coletor de frutas
